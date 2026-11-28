@@ -32,3 +32,7 @@ Not used: #56304 monster death scream and #754457 ice-cream melody are **NonComm
 ## More Poly Haven (CC0)
 - Dining table, gothic statue, cassette player (downloaded by the user).
 - Freesound #528447 Horror piano (ZHRØ, CC BY 4.0), #129342 Cricket Fly (le_abbaye_Noirlac, CC BY 3.0), #265347 Creepy Background Music (Zg444, CC0).
+
+## Fonts (SIL Open Font Licence 1.1)
+- **IM FELL English** (roman, italic, small caps), digitised by Igino Marini (title, menus and text). Licence: `godot/assets/fonts/OFL-IMFell.txt`.
+From Google Fonts; free to bundle in the game, including commercially.
